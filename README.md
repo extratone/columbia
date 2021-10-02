@@ -1,5 +1,6 @@
-![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+![Missouri Outline Logo](https://user-images.githubusercontent.com/43663476/135731754-7144f7a9-fb70-4e79-89e6-f84530451072.jpeg)
 
-# David Blue's GitHub Repository Template
+# ColumbiaMO Local Telegram Group Docs/Policies
 
-Howdy! I'm new to all of this and yet I've already grown quite tired of things like Labels not being set up the way I prefer, so I created this template for myself. It is very much a work in progress. I've left it public just in case it'd be of use to anyone else, and I hope it is! If there's any way I can catalyze that, please do reach out!
+## Attempting to formalize my operation of the [local Telegram group](https://t.me/columbiamo) I created for mid-Missouri.
+
