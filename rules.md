@@ -1,4 +1,4 @@
-# ColumbiaMO Telegram Chat Rules
+# Rules for Participating in the Columbia Missouri Local Telegram Group
 
 1. **ColumbiaMO Local Chat** is a place to discuss current events and culture in a friendly, collegial way. We invite you to be smart, kind, welcoming, funny, charming, incisive, prescient, skeptical: whoever you are on your best day.
 2. **ColumbiaMO Local Chat** is reserved for people who live, have lived, or intend to live in mid-Missouri as well as travelers through the area. 
