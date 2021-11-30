@@ -13,3 +13,4 @@
 11. Final moderation decisions are subject to the whims of the Admins and Mods.
 12. We expect to update these rules as necessary. When we do, you’ll see a notification attached to this message.
 13. Follow the spirit of these rules as well as the letter of them. Do not become an edgelord. We err on the side of removing borderline content — and borderline users — from the channel.
+14. At least for the moment, *automated* sharing of Crypto and sex-related content is a banable offense.
