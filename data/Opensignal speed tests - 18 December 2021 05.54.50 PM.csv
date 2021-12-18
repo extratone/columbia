@@ -1,0 +1,63 @@
+Test Type,Connection,Date/Time,Download (Mbps),Upload (Mbps),Latency (ms)
+Speed Test,Wifi,15 December 2021 22:05,291.9,35.5,46
+Speed Test,Wifi,11 December 2021 21:18,68.6,38.6,26
+Speed Test,Mobile 5G,11 December 2021 21:11,110.9,15.6,59
+Speed Test,Mobile 5G,10 December 2021 14:44,10.3,4.0,68
+Speed Test,Mobile 5G,10 December 2021 13:44,61.7,29.0,65
+Speed Test,Mobile 5G,10 December 2021 12:36,25.4,19.0,52
+Speed Test,Mobile 4G,9 December 2021 16:47,1.5,0.7,160
+Speed Test,Mobile 4G,9 December 2021 16:46,37.3,24.3,35
+Speed Test,Mobile 5G,9 December 2021 13:37,12.7,5.2,66
+Speed Test,Mobile 4G,9 December 2021 10:12,100.2,15.3,32
+Speed Test,Mobile 5G,9 December 2021 10:10,8.4,9.1,108
+Speed Test,Mobile 5G,26 November 2021 14:56,74.0,26.3,30
+Speed Test,Mobile 4G,20 November 2021 12:20,0.5,0.1,49
+Speed Test,Mobile 4G,20 November 2021 12:19,0.0,0.0,1298
+Speed Test,Mobile 5G,19 November 2021 09:50,11.2,20.2,59
+Speed Test,Mobile 5G,17 November 2021 20:40,30.2,4.7,44
+Speed Test,Wifi,12 November 2021 17:09,71.3,17.5,39
+Speed Test,Mobile 5G,31 October 2021 09:01,6.4,5.0,34
+Speed Test,Mobile 5G,20 October 2021 02:28,99.6,17.1,28
+Speed Test,Mobile 5G,17 October 2021 15:04,38.7,8.5,34
+Speed Test,Mobile 5G,15 October 2021 23:34,1.4,1.7,863
+Speed Test,Mobile 5G,15 October 2021 23:27,1.7,1.8,323
+Speed Test,Mobile 5G,2 October 2021 13:25,1.2,17.9,33
+Speed Test,Wifi,28 September 2021 13:39,180.5,33.0,37
+Speed Test,Mobile 5G,17 September 2021 19:20,18.3,20.2,40
+Speed Test,Mobile 5G,17 September 2021 12:41,61.3,3.8,59
+Speed Test,Mobile 5G,17 September 2021 12:40,75.9,3.6,68
+Speed Test,Mobile 4G,26 August 2021 14:49,25.5,4.9,35
+Speed Test,Mobile 5G,24 August 2021 13:37,113.9,4.9,35
+Speed Test,Wifi,24 August 2021 13:37,274.0,2.6,39
+Speed Test,Mobile 4G,12 August 2021 20:15,24.9,2.0,46
+Speed Test,Mobile 4G,12 August 2021 18:02,41.1,16.5,37
+Speed Test,Mobile 5G,24 July 2021 17:41,19.7,17.9,90
+Speed Test,Mobile 5G,24 July 2021 15:29,7.2,0.9,69
+Speed Test,Mobile 5G,24 July 2021 15:18,3.4,0.0,52
+Speed Test,Wifi,18 July 2021 21:25,3.7,0.9,238
+Speed Test,Mobile 5G,16 July 2021 03:16,78.2,9.7,35
+Speed Test,Mobile 5G,3 July 2021 06:32,40.1,12.1,39
+Speed Test,Mobile 5G,2 July 2021 00:40,53.1,7.4,39
+Speed Test,Mobile 5G,1 July 2021 12:28,2.9,6.6,90
+Speed Test,Mobile 5G,1 July 2021 12:03,45.0,14.9,41
+Speed Test,Wifi,24 June 2021 16:20,245.7,99.5,50
+Speed Test,Mobile 5G,6 June 2021 13:29,3.0,9.8,40
+Speed Test,Mobile 5G,5 June 2021 19:48,70.0,10.1,57
+Speed Test,Mobile 5G,5 June 2021 17:06,11.0,3.9,60
+Speed Test,Mobile 4G,29 May 2021 14:38,14.2,0.3,353
+Speed Test,Wifi,23 May 2021 05:48,424.8,35.9,37
+Speed Test,Mobile 5G,23 May 2021 05:47,12.1,15.9,37
+Speed Test,Mobile 5G,14 May 2021 15:36,46.4,11.5,74
+Speed Test,Mobile 4G,7 May 2021 09:22,24.7,2.5,82
+Speed Test,Mobile 5G,7 May 2021 09:18,31.2,13.0,53
+Speed Test,Mobile 5G,1 May 2021 16:46,26.3,9.4,74
+Speed Test,Mobile 5G,1 May 2021 16:43,26.3,11.9,41
+Speed Test,Mobile 5G,1 May 2021 13:01,25.8,2.2,51
+Speed Test,Wifi,30 April 2021 00:32,392.5,138.2,38
+Speed Test,Wifi,15 April 2021 20:26,155.1,34.9,49
+Speed Test,Wifi,7 April 2021 02:16,202.2,57.0,38
+Speed Test,Mobile 5G,31 March 2021 03:02,176.0,26.1,28
+Speed Test,Mobile 5G,29 March 2021 17:23,112.1,18.7,31
+Speed Test,Mobile 4G,25 March 2021 04:53,134.0,21.0,35
+Speed Test,Mobile 5G,25 March 2021 04:51,146.6,20.0,31
+Speed Test,Wifi,17 March 2021 03:09,366.3,32.7,36
