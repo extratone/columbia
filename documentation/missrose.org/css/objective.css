@@ -1,0 +1,124 @@
+/* Object Framework */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.align-stretch {
+    align-items: stretch;
+}
+.col-1,.col-2,.col-3,.col-4,.col-5,
+.col-6,.col-7,.col-8,.col-9,.col-10 {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 1rem;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+.justify-between {
+    justify-content: space-between;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
+}
+.mb-2 {
+    margin-bottom: 2rem;
+}
+.my-1 {
+    margin: 1rem 0;
+}
+
+/* Buttons */
+.btn {
+    font-size: 1.25rem;
+    font-weight: bold;
+    display: inline-block;
+    color: white;
+    border-radius: .5rem;
+    padding: 1rem 1.5rem;
+    background-color: #d56503;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+}
+.btn:hover {
+    background: #049fff;
+}
+/*.btn-nav {
+    font-size: 1.25rem;
+    font-weight: bold;
+    display: inline-block;
+    color: white;
+    border-radius: .5rem;
+    padding: 0.75rem 1rem;
+    background-color: #d56503;
+    text-decoration: none;
+    border: 1px solid transparent;
+}*/
+
+/* Desktop Layout */
+@media only screen and (min-width: 768px) {
+    .container {
+        max-width: 85rem;
+        margin: 0 auto;
+    }
+    .row {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .col-1 {
+        flex: 0 0 10%;
+        max-width: 10%;
+    }
+    .col-2 {
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+    .col-3 {
+        flex: 0 0 30%;
+        max-width: 30%;
+    }
+    .col-4 {
+        flex: 0 0 40%;
+        max-width: 40%;
+    }
+    .col-5 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .col-6 {
+        flex: 0 0 60%;
+        max-width: 60%;
+    }
+    .col-7 {
+        flex: 0 0 70%;
+        max-width: 70%;
+    }
+    .col-8 {
+        flex: 0 0 80%;
+        max-width: 80%;
+    }
+    .col-9 {
+        flex: 0 0 90%;
+        max-width: 90%;
+    }
+    .col-10 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }   
+}
+
+/* Text */
+.text-center {
+    text-align: center;
+}
+
+/* Spacing *
+.pr-4 {
+    padding-right: 4rem;
+}
+.pl-4 {
+    padding-left: 4rem;
+}*/
