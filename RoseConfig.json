@@ -1,0 +1,154 @@
+{
+  "bot_id": 609517172,
+  "data": {
+    "admin": {
+      "admin_error_disable": false,
+      "anon_admin": false,
+      "legacy_admin": false
+    },
+    "antiflood": {
+      "action": "ban",
+      "action_duration": 0,
+      "flood_limit": 0
+    },
+    "blocklists": {
+      "action": "mute",
+      "action_duration": 0,
+      "default_reason": "",
+      "filters": [
+        {
+          "name": "horny",
+          "reason": "So sorry, but sex work/solicitation has been at least temporarily banned here until we can figure out what to do about the sex bots lol. Please contact me @DavidBlue if you feel this has happened in error."
+        }
+      ],
+      "should_delete": true
+    },
+    "disabled": {
+      "disabled": null,
+      "should_delete": false
+    },
+    "federations": {
+      "fed_id": "6ab78918-b27b-4c33-ae5e-15a109588377",
+      "quiet_ban": false
+    },
+    "filters": {
+      "filters": null
+    },
+    "greetings": {
+      "captcha_rules": true,
+      "goodbye": {
+        "data_id": "",
+        "text": "",
+        "type": 0
+      },
+      "kick_after": 0,
+      "mute_for": 0,
+      "mute_mode": "text",
+      "mute_text": "",
+      "should_clean": true,
+      "should_delete_service": true,
+      "should_goodbye": true,
+      "should_kick": false,
+      "should_mute": true,
+      "should_welcome": true,
+      "welcome": {
+        "data_id": "",
+        "text": "Howdy, {mention}! \nWelcome to the Columbia/Mid-Missouri area's local chat group!\nIf you have issues or questions, please bother @DavidBlue, first.\nYou should probably familiarize yourself with these: {rules}",
+        "type": 0
+      }
+    },
+    "locks": {
+      "allowlisted_url": null,
+      "lock_warns": false,
+      "locks": {
+        "album": false,
+        "all": false,
+        "anonchannel": false,
+        "audio": false,
+        "bot": false,
+        "button": false,
+        "command": false,
+        "comment": false,
+        "contact": false,
+        "document": false,
+        "email": false,
+        "emojigame": false,
+        "forward": false,
+        "forwardbot": false,
+        "forwardchannel": false,
+        "forwarduser": false,
+        "game": false,
+        "gif": false,
+        "inline": false,
+        "invitelink": true,
+        "location": false,
+        "phone": false,
+        "photo": false,
+        "poll": false,
+        "rtl": false,
+        "spoiler": false,
+        "sticker": false,
+        "text": false,
+        "url": false,
+        "video": false,
+        "videonote": false,
+        "voice": false
+      }
+    },
+    "notes": {
+      "notes": [
+        {
+          "data_id": "",
+          "name": "administrativefederation",
+          "text": "`Created new federation with FedID: 6ab78918-b27b-4c33-ae5e-15a109588377.\nUse this ID to join the federation! eg:\n/joinfed 6ab78918-b27b-4c33-ae5e-15a109588377\nSuccessfully joined the \"Extratone\" federation! All new federation bans will now also remove the members from this chat.`\n__Telegram: Contact__ __@extratone__\n__Federation Extratone has now subscribed to Rose Support Official. All fedbans in Rose Support Official will now take effect in both feds.__\nExtratone, [Jan 11, 2022 at 15:37]\nSuccessfully joined the “Extratone” federation! All new federation bans will now also remove the members from this chat.\nExtratone, [Jan 11, 2022 at 15:39]\nFederation Extratone has now subscribed to Rose Support Official. All fedbans in Rose Support Official will now take effect in both feds.\nExtratone, [Jan 11, 2022 at 16:06]\nFederation Extratone has now subscribed to @SpamWatch. All fedbans in @SpamWatch will now take effect in both feds.\nExtratone, [Jan 11, 2022 at 16:06]\nFed info:\nFedID: 1c2221d9-aa27–4baf-b77c-8822b36254d2 Name: @SpamWatch\nCreator: this person (172811422)\nNumber of admins: 1\nNumber of bans: 240233\nNumber of connected chats: 770\nNumber of subscribed feds: 590\nThis federation is not subscribed to any other feds.\nExtratone, [Jan 11, 2022 at 16:06] Admins in federation ‘@SpamWatch’:\n- è Simon | Schu rrle é (172811422)\n • https://t.me/extratone/9658\n • https://t.me/extratone/9659\n • [__Telegram: Contact @extratone__](https://t.me/extratone/9660)\n • [__Telegram: Contact @extratone__](https://t.me/extratone/9661)\n • [__Telegram: Contact @extratone__](https://t.me/extratone/9662) **\n\n*Rose Support Federation Info*\nFed info: FedID: 86718661–6bfc-4bd0–9447–7c419eb08e69 Name: Rose Support Official Creator: this person (254318997) Number of admins: 10 Number of bans: 5951 Number of connected chats: 249 Number of subscribed feds: 361\nThis federation is not subscribed to any other feds.\n*Admins*\nAdmins in federation ‘Rose Support Official’:\n • Dalirena🐮 (2153160)\n • Kees Sonnema (18673980)\n • Andrea (48271100)\n • Harsh Shandilya (211931420)\n • Paul Larsen (254318997)\n • Taylor (260150652)\n • Sebastian (348909717)\n • Glen DeSouza 🎄🐫 (415692419)\n • Kyle (491256848)\n • H 1 (788429389)\n\n*SpamWatch Federation Info*\nFed info: FedID: 1c2221d9-aa27–4baf-b77c-8822b36254d2 Name: @SpamWatch Creator: __this person__ (172811422) Number of admins: 1 Number of bans: 240233 Number of connected chats: 770 Number of subscribed feds: 590\nThis federation is not subscribed to any other feds.",
+          "type": 0
+        },
+        {
+          "data_id": "BQACAgEAAx0CSSTCdgACJpVhwQVa2xglZPDg0dczhZpASfFlOQACSAIAArXWCUYRKHsHU1YxtiME",
+          "name": "contact",
+          "text": "\n",
+          "type": 8
+        },
+        {
+          "data_id": "BQACAgEAAx0CSSTCdgACJt1hyIxX6uSW_MbIWr_nvpBD5OzqVwACHAIAAjoWGUZYulI5drv-QSME",
+          "name": "mapaper",
+          "text": "Here's a zip file of the full-sized images.\n",
+          "type": 8
+        },
+        {
+          "data_id": "",
+          "name": "rose",
+          "text": "Fillings\n\n*Fillings*\n\nYou can also customise the contents of your message with contextual data. For example, you could mention a user by name in the welcome message, or mention them in a filter!\n\n*Supported fillings*:\n- `{first}`: The user's first name.\n- `{last}`: The user's last name.\n- `{fullname}`: The user's full name.\n- `{username}`: The user's username. If they don't have one, mentions the user instead.\n- `{mention}`: Mentions the user with their firstname.\n- `{id}`: The user's ID.\n- `{chatname}`: The chat's name.\n- `{rules}`: Create a button to the chat's rules.\n- `{preview}`: Enables link previews for this message. Useful when using links to Instant View pages.\n\n*Example usages*:\n- Save a filter using the user's name.\n-\u003e `/filter test {first} triggered this filter.`\n- Add a rules button to a note.\n-\u003e `/save info Press the button to read the chat rules! {rules}`\n- Mention a user in the welcome message\n-\u003e `/setwelcome Welcome {mention} to {chatname}!`",
+          "type": 0
+        }
+      ],
+      "private_notes": false
+    },
+    "pins": {
+      "antichannelpin": false,
+      "cleanlinked": false
+    },
+    "raids": {
+      "raid_mode_action_duration": 3600,
+      "raid_mode_duration": 21600
+    },
+    "reports": {
+      "disable_reports": false
+    },
+    "rules": {
+      "button_name": "",
+      "content": "# ColumbiaMO Telegram Chat Rules\n\n*Version 1.1 - 2021-11-29-21.15.46*\n\nHello, chat! I’ve finally drafted a presentable copy of the Big Bad Chat Rules.\n\nYou can find a revision-tracked version of this document on the GitHub repo I created, [here](https://github.com/extratone/columbia/blob/main/rules.md).\n\nI have also published [a parallel version](https://telegra.ph/ColumbiaMO-Telegram-Chat-Rules-11-30) of this document to Telegram’s longform service, Telegra.ph.\n\n1. *ColumbiaMO Local Chat* is a place to discuss current events and culture in a friendly, collegial way. We invite you to be smart, kind, welcoming, funny, charming, incisive, prescient, skeptical: whoever you are on your best day.\n2. *ColumbiaMO Local Chat* is reserved for people who live, have lived, or intend to live in mid-Missouri as well as travelers through the area. \n3. Share news, opinions, personal experiences, charts, data, photos, tweets, and other media. Do not share misinformation, disinformation, or spam — including in DMs to other members.\n4. Do not promote your own hustles — or your clients’ hustles — more than *once per day.*\n5. Disruptive off-topic posts (random interjections) are discouraged and unwelcome.\n6. Discuss subjects in good faith. Do not troll, mock, or harass other members of the community.\n7. Pseudonyms are welcome, and you do not have to disclose where you work, but do not impersonate anyone.\n8. Keep it safe for work. *ColumbiaMO Local Chat* is not the place for disturbing images, racy pictures, or anything else you wouldn’t want to share with your coworkers or family.\n9. Be inclusive of all people and points of view. This is particularly true for Black, Indigenous, and people of color, and people in the LBGTQ+ community. We will remove any homophobic, transphobic, misogynistic, or racist content without discussion.\n10. If someone is bothering you or you would like to report a post or member who you believe is violating these rules, please contact one of the Administrators or Moderators.\n11. Final moderation decisions are subject to the whims of the Admins and Mods.\n12. We expect to update these rules as necessary. When we do, you’ll see a notification attached to this message.\n13. Follow the spirit of these rules as well as the letter of them. Do not become an edgelord. We err on the side of removing borderline content — and borderline users — from the channel.\n14. At least for the moment, *automated* sharing of Crypto and sex-related content is a banable offense.",
+      "send_to_chat": false
+    },
+    "translations": {
+      "lang": "en-GB"
+    },
+    "warns": {
+      "action": "mute",
+      "action_duration": 0,
+      "warn_for": 0,
+      "warn_limit": 3
+    }
+  },
+  "version": 1
+}
