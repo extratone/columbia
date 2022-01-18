@@ -1,3 +1,7 @@
+# ColumbiaMO Telegram Group Rose Configuration
+`01182022-144024`
+
+```json
 {
   "bot_id": 609517172,
   "data": {
@@ -118,7 +122,7 @@
         {
           "data_id": "",
           "name": "rose",
-          "text": "Fillings\n\n*Fillings*\n\nYou can also customise the contents of your message with contextual data. For example, you could mention a user by name in the welcome message, or mention them in a filter!\n\n*Supported fillings*:\n- `{first}`: The user's first name.\n- `{last}`: The user's last name.\n- `{fullname}`: The user's full name.\n- `{username}`: The user's username. If they don't have one, mentions the user instead.\n- `{mention}`: Mentions the user with their firstname.\n- `{id}`: The user's ID.\n- `{chatname}`: The chat's name.\n- `{rules}`: Create a button to the chat's rules.\n- `{preview}`: Enables link previews for this message. Useful when using links to Instant View pages.\n\n*Example usages*:\n- Save a filter using the user's name.\n-\u003e `/filter test {first} triggered this filter.`\n- Add a rules button to a note.\n-\u003e `/save info Press the button to read the chat rules! {rules}`\n- Mention a user in the welcome message\n-\u003e `/setwelcome Welcome {mention} to {chatname}!`",
+          "text": "Fillings\n\n*Fillings*\n\nYou can also customise the contents of your message with contextual data. For example, you could mention a user by name in the welcome message, or mention them in a filter!\n\n*Supported fillings*:\n- `{first}`: The user's first name.\n- `{last}`: The user's last name.\n- `{fullname}`: The user's full name.\n- `{username}`: The user's username. If they don't have one, mentions the user instead.\n- `{mention}`: Mentions the user with their firstname.\n- `{id}`: The user's ID.\n- `{chatname}`: The chat's name.\n- `{rules}`: Create a button to the chat's rules.\n- `{preview}`: Enables link previews for this message. Useful when using links to Instant View pages.\n\n*Example usages*:\n- Save a filter using the user's name.\n-u003e `/filter test {first} triggered this filter.`\n- Add a rules button to a note.\n-u003e `/save info Press the button to read the chat rules! {rules}`\n- Mention a user in the welcome message\n-u003e `/setwelcome Welcome {mention} to {chatname}!`",
           "type": 0
         },
         {
@@ -164,3 +168,4 @@
   },
   "version": 1
 }
+```
