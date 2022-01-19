@@ -1,0 +1,59 @@
+{
+  "bot_id": 609517172,
+  "data": {
+    "notes": {
+      "notes": [
+        {
+          "data_id": "",
+          "name": "administrativefederation",
+          "text": "`Created new federation with FedID: 6ab78918-b27b-4c33-ae5e-15a109588377.\nUse this ID to join the federation! eg:\n/joinfed 6ab78918-b27b-4c33-ae5e-15a109588377\nSuccessfully joined the \"Extratone\" federation! All new federation bans will now also remove the members from this chat.`\n__Telegram: Contact__ __@extratone__\n__Federation Extratone has now subscribed to Rose Support Official. All fedbans in Rose Support Official will now take effect in both feds.__\nExtratone, [Jan 11, 2022 at 15:37]\nSuccessfully joined the “Extratone” federation! All new federation bans will now also remove the members from this chat.\nExtratone, [Jan 11, 2022 at 15:39]\nFederation Extratone has now subscribed to Rose Support Official. All fedbans in Rose Support Official will now take effect in both feds.\nExtratone, [Jan 11, 2022 at 16:06]\nFederation Extratone has now subscribed to @SpamWatch. All fedbans in @SpamWatch will now take effect in both feds.\nExtratone, [Jan 11, 2022 at 16:06]\nFed info:\nFedID: 1c2221d9-aa27–4baf-b77c-8822b36254d2 Name: @SpamWatch\nCreator: this person (172811422)\nNumber of admins: 1\nNumber of bans: 240233\nNumber of connected chats: 770\nNumber of subscribed feds: 590\nThis federation is not subscribed to any other feds.\nExtratone, [Jan 11, 2022 at 16:06] Admins in federation ‘@SpamWatch’:\n- è Simon | Schu rrle é (172811422)\n • https://t.me/extratone/9658\n • https://t.me/extratone/9659\n • [__Telegram: Contact @extratone__](https://t.me/extratone/9660)\n • [__Telegram: Contact @extratone__](https://t.me/extratone/9661)\n • [__Telegram: Contact @extratone__](https://t.me/extratone/9662) **\n\n*Rose Support Federation Info*\nFed info: FedID: 86718661–6bfc-4bd0–9447–7c419eb08e69 Name: Rose Support Official Creator: this person (254318997) Number of admins: 10 Number of bans: 5951 Number of connected chats: 249 Number of subscribed feds: 361\nThis federation is not subscribed to any other feds.\n*Admins*\nAdmins in federation ‘Rose Support Official’:\n • Dalirena🐮 (2153160)\n • Kees Sonnema (18673980)\n • Andrea (48271100)\n • Harsh Shandilya (211931420)\n • Paul Larsen (254318997)\n • Taylor (260150652)\n • Sebastian (348909717)\n • Glen DeSouza 🎄🐫 (415692419)\n • Kyle (491256848)\n • H 1 (788429389)\n\n*SpamWatch Federation Info*\nFed info: FedID: 1c2221d9-aa27–4baf-b77c-8822b36254d2 Name: @SpamWatch Creator: __this person__ (172811422) Number of admins: 1 Number of bans: 240233 Number of connected chats: 770 Number of subscribed feds: 590\nThis federation is not subscribed to any other feds.",
+          "type": 0
+        },
+        {
+          "data_id": "BQACAgEAAx0CSSTCdgACKWph5zTjYvFRYw7alE999mfSDQHpGwACrwIAAqkDOEcw9K6s7za7TCME",
+          "name": "contact",
+          "text": "[*__David Blue’s Contact Information__*](https://davidblue.wtf/db.vcf)\n\n•[__Contact Card__](https://davidblue.wtf/db.vcf)\n•[__Telegram__](https://t.me/extratone)\n•__Email__\n•[__Twitter__](https://twitter.com/NeoYokel)\n•[__Mastodon__](https://mastodon.social/@DavidBlue)\n•[__Discord__](https://discord.gg/0b9KQUKP858b0iZF)\n_•_[___Everywhere___](https://raindrop.io/davidblue/social-directory-21059174)…",
+          "type": 8
+        },
+        {
+          "data_id": "BQACAgEAAx0CSSTCdgACJt1hyIxX6uSW_MbIWr_nvpBD5OzqVwACHAIAAjoWGUZYulI5drv-QSME",
+          "name": "mapaper",
+          "text": "Here's a zip file of the full-sized images.\n",
+          "type": 8
+        },
+        {
+          "data_id": "",
+          "name": "reports",
+          "text": "Reports are currently enabled in this chat.\nUsers can use the /report command, or mention @admin, to tag all admins.\n\nTo change this setting, try this command again, with one of the following args: yes/no/on/off",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "rose",
+          "text": "[*ColumbiaMO Telegram Group Rose Configuration*](https://gist.github.com/extratone/b425bcbc4387cfa7f024cf80d7c80faa)\n\n`01182022-144024`\n\n`{\n  \"bot_id\": 609517172,\n  \"data\": {\n    \"admin\": {\n      \"admin_error_disable\": false,\n      \"anon_admin\": false,\n      \"legacy_admin\": false\n    },\n    \"antiflood\": {\n      \"action\": \"ban\",\n      \"action_duration\": 0,\n      \"flood_limit\": 0\n    },\n    \"blocklists\": {\n      \"action\": \"mute\",\n      \"action_duration\": 0,\n      \"default_reason\": \"\",\n      \"filters\": [\n        {\n          \"name\": \"horny\",\n          \"reason\": \"So sorry, but sex work/solicitation has been at least temporarily banned here until we can figure out what to do about the sex bots lol. Please contact me @DavidBlue if you feel this has happened in error.\"\n        }\n      ],\n      \"should_delete\": true\n    },\n    \"disabled\": {\n      \"disabled\": null,\n      \"should_delete\": false\n    },\n    \"federations\": {\n      \"fed_id\": \"6ab78918-b27b-4c33-ae5e-15a109588377\",\n      \"quiet_ban\": false\n    },\n    \"filters\": {\n      \"filters\": null\n    },\n    \"greetings\": {\n      \"captcha_rules\": true,\n      \"goodbye\": {\n        \"data_id\": \"\",\n        \"text\": \"\",\n        \"type\": 0\n      },\n      \"kick_after\": 0,\n      \"mute_for\": 0,\n      \"mute_mode\": \"text\",\n      \"mute_text\": \"\",\n      \"should_clean\": true,\n      \"should_delete_service\": true,\n      \"should_goodbye\": true,\n      \"should_kick\": false,\n      \"should_mute\": true,\n      \"should_welcome\": true,\n      \"welcome\": {\n        \"data_id\": \"\",\n        \"text\": \"Howdy, {mention}! \\nWelcome to the Columbia/Mid-Missouri area's local chat group!\\nIf you have issues or questions, please bother @DavidBlue, first.\\nYou should probably familiarize yourself with these: {rules}\",\n        \"type\": 0\n      }\n    },\n    \"locks\": {\n      \"allowlisted_url\": null,\n      \"lock_warns\": false,\n      \"locks\": {\n        \"album\": false,\n        \"all\": false,\n        \"anonchannel\": false,\n        \"audio\": false,\n        \"bot\": false,\n        \"button\": false,\n        \"command\": false,\n        \"comment\": false,\n        \"contact\": false,\n        \"document\": false,\n        \"email\": false,\n        \"emojigame\": false,\n        \"forward\": false,\n        \"forwardbot\": false,\n        \"forwardchannel\": false,\n        \"forwarduser\": false,\n        \"game\": false,\n        \"gif\": false,\n        \"inline\": false,\n        \"invitelink\": true,\n        \"location\": false,\n        \"phone\": false,\n        \"photo\": false,\n        \"poll\": false,\n        \"rtl\": false,\n        \"spoiler\": false,\n        \"sticker\": false,\n        \"text\": false,\n        \"url\": false,\n        \"video\": false,\n        \"videonote\": false,\n        \"voice\": false\n      }\n    },\n    \"notes\": {\n      \"notes\": [\n        {\n          \"data_id\": \"\",\n          \"name\": \"administrativefederation\",\n          \"text\": \"`Created new federation with FedID: 6ab78918-b27b-4c33-ae5e-15a109588377.\\nUse this ID to join the federation! eg:\\n/joinfed 6ab78918-b27b-4c33-ae5e-15a109588377\\nSuccessfully joined the \\\"Extratone\\\" federation! All new federation bans will now also remove the members from this chat.`\\n__Telegram: Contact__ __@extratone__\\n__Federation Extratone has now subscribed to Rose Support Official. All fedbans in Rose Support Official will now take effect in both feds.__\\nExtratone, [Jan 11, 2022 at 15:37]\\nSuccessfully joined the “Extratone” federation! All new federation bans will now also remove the members from this chat.\\nExtratone, [Jan 11, 2022 at 15:39]\\nFederation Extratone has now subscribed to Rose Support Official. All fedbans in Rose Support Official will now take effect in both feds.\\nExtratone, [Jan 11, 2022 at 16:06]\\nFederation Extratone has now subscribed to @SpamWatch. All fedbans in @SpamWatch will now take effect in both feds.\\nExtratone, [Jan 11, 2022 at 16:06]\\nFed info:\\nFedID: 1c2221d9-aa27–4baf-b77c-8822b36254d2 Name: @SpamWatch\\nCreator: this person (172811422)\\nNumber of admins: 1\\nNumber of bans: 240233\\nNumber of connected chats: 770\\nNumber of subscribed feds: 590\\nThis federation is not subscribed to any other feds.`",
+          "type": 0
+        },
+        {
+          "data_id": "BQACAgEAAx0CSSTCdgACKJJh3gXkMa3ccLNdz74GOWA9QysvWwACVQIAAvmb8Ub9c6aee65HeyME",
+          "name": "roseconfiguration",
+          "text": "",
+          "type": 8
+        },
+        {
+          "data_id": "",
+          "name": "rosefillings",
+          "text": "Fillings\n\n*Fillings*\n\nYou can also customise the contents of your message with contextual data. For example, you could mention a user by name in the welcome message, or mention them in a filter!\n\n*Supported fillings*:\n- `David`: The user's first name.\n- `Blue`: The user's last name.\n- `David Blue`: The user's full name.\n- `@DavidBlue`: The user's username. If they don't have one, mentions the user instead.\n- `David`: Mentions the user with their firstname.\n- `233653652`: The user's ID.\n- `Columbia Local`: The chat's name.\n- `[Rules](buttonurl://t.me/MissRose_bot?start=rules_-1001227145846)`: Create a button to the chat's rules.\n- : Enables link previews for this message. Useful when using links to Instant View pages.\n\n*Example usages*:\n- Save a filter using the user's name.\n-\u003e `/filter test David triggered this filter.`\n- Add a rules button to a note.\n-\u003e `/save info Press the button to read the chat rules! [Rules](buttonurl://t.me/MissRose_bot?start=rules_-1001227145846)`\n- Mention a user in the welcome message\n-\u003e `/setwelcome Welcome David to Columbia Local!`",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "stickerpacks",
+          "text": "1. [2021 Perdition](https://t.me/addstickers/perdition_by_stickersthiefbot)\n2. [GROTESQUE App Icons](https://t.me/addstickers/grotesque_by_stickersthiefbot)\n3. [Extending Emoji](https://t.me/addstickers/ExtendingEmoji_by_stickersthiefbot)\n4. [Extending Emoji II](https://t.me/addstickers/ExtendingEmoji2_by_stickersthiefbot)",
+          "type": 0
+        }
+      ],
+      "private_notes": false
+    }
+  },
+  "version": 1
+}
