@@ -12,6 +12,10 @@ Version 1.1 - `01182022-145328`
 
 View the "original" [rules message in chat](https://t.me/columbiamo/7774) or - more reasonably - prompt Rose to print the most current version any time by sending `/rules` to the chat.
 
+<audio controls>
+  <source src="https://github.com/extratone/columbia/raw/main/audio/rulestts.m4a">
+</audio>
+
 1. **ColumbiaMO Local Chat** is a place to discuss current events and culture in a friendly, collegial way. We invite you to be smart, kind, welcoming, funny, charming, incisive, prescient, skeptical: whoever you are on your best day.
 2. **ColumbiaMO Local Chat** is reserved for people who live, have lived, or intend to live in mid-Missouri as well as travelers through the area. 
 3. Share news, opinions, personal experiences, charts, data, photos, tweets, and other media. Do not share misinformation, disinformation, or spam — including in DMs to other members.
