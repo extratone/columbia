@@ -6,6 +6,16 @@
 
 * [Original thread on the r/ColumbiaMO Subreddit](https://www.reddit.com/r/columbiamo/comments/c4na0v/local_telegram_group_chat_for_columbia/)
 
+## Meta
+
+- **Identification**: -1001227145846
+- **Name**: @columbiamo
+- **Link**: [https://t.me/columbiamo](https://t.me/columbiamo)
+- **Admin**: @[DavidBlue](https://t.me/DavidBlue)
+
+**Description**
+Columbia/Mid-Missouri’s (USA) local chat. Be reasonable, please. Bot traffic is currently unallowed. #Rules Documentation here: https://github.com/extratone/columbia
+
 ## Rules for Participating in the Columbia Missouri Local Telegram Group
 
 Version 1.1 - `01182022-145328`
