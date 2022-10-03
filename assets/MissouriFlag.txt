@@ -1,0 +1,41 @@
+Color values (from left to right) 
+
+ Swatch 1
+HEX: 982143
+RGB: 152 33 67
+CMYK: 25 100 64 15
+LAB: 36 59 14
+HSB: 343 78 60
+
+Swatch 2
+HEX: CE8DA5
+RGB: 206 141 165
+CMYK: 12 55 15 0
+LAB: 66 34 -2
+HSB: 338 32 81
+
+Swatch 3
+HEX: 1F4B87
+RGB: 31 75 135
+CMYK: 100 78 17 4
+LAB: 31 0 -42
+HSB: 215 77 53
+
+Swatch 4
+HEX: 255788
+RGB: 37 87 136
+CMYK: 96 67 21 5
+LAB: 35 -7 -36
+HSB: 210 73 53
+
+Swatch 5
+HEX: 823E24
+RGB: 130 62 36
+CMYK: 29 84 100 29
+LAB: 36 35 36
+HSB: 17 72 51
+
+Color Profile Information :- 
+RGB: Display P3
+CMYK: U.S. WebCoated (SWOP) v2
+LAB: CIELAB D50
